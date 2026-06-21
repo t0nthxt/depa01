@@ -1,0 +1,8 @@
+streamlit
+paho-mqtt
+opencv-python
+ultralytics
+qrcode[pil]
+Pillow
+numpy
+ 
